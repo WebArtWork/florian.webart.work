@@ -21,3 +21,6 @@ Florian is a small hotel located on Polskyi Rynok square, 4a, in the historic Ol
 
 ## Notes
 The page explicitly flags several details as unverified: whether every room has an Old Town view, the exact room count/categories/prices, distances to nearby landmarks, and the number of guest reviews behind the listed 9.4 Booking.com rating. All photos are marked as illustrative, not real images of the property.
+
+## Forms
+Connected to HotelOS (`kp-florian`): `stay-request` only (no other services on the page). Script and contract: `../shared/FORMS.md`.
